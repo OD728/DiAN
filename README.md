@@ -35,12 +35,6 @@ Completely hides the "Active Now" column, including:
 
 **Vencord etc.**: Add CSS to Custom CSS section in settings.
 
-A simple CSS snippet to hide the annoying "Active Now" sidebar on Discord's Friends/Home page for a cleaner interface.
-
-![Discord Version](https://img.shields.io/badge/Discord-Web%20%7C%20Desktop-5865F2)
-![CSS](https://img.shields.io/badge/CSS-3-1572B6)
-![License](https://img.shields.io/badge/license-Public%20Domain-green)
-
 ## ✨ What it does
 
 Completely hides the "Active Now" column that shows:
